@@ -1,17 +1,45 @@
-#Associação Python Brasil
+# Associação Python Brasil
+
 - O que é?
 - Por que foi criada?
 
-##Fundadores
 
-- Luciano Ramalho
-- Rodrigo Senra
-- Jean Ferri
+## Fundadores
+
+![Fundação da APyB](http://i.imgur.com/gdHbEsg.jpg)
+
+De pé (esquerda para direita):
+
+- Fabio Rizzo
+- Pedro Werneck
+- Johan Dahlin
+- ???
 - Érico Andrei
+- ???
+- Daniel Vainsencher
+- Leonardo Rochael
+- Ricardo Bánffy
+- Luciano Ramalho
+- Rodrigo Bernardo Pimentel
+- Rodrigo Senra
+- Luciano Pacheco
+- ???
+- Giuseppe Romagnoli
 
-##Diretorias passadas
+Sentados (esquerda para direita):
+- Rudá Porto Filgueiras
+- ???
+- Fabiano Weimar dos Santos
+- Sérgio Oliveira
+- Osvaldo Santana Neto
+- Marco André
+- Dornéles Treméa
+- Jean Ferri
 
-##Conferência [Python Brasil](https://github.com/pythonbrasil/pythonbrasil_documentacao)
+
+## Diretorias passadas
+
+## Conferência [Python Brasil](https://github.com/pythonbrasil/pythonbrasil_documentacao)
 
 Manual do [Big Kahuna](https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html)
 

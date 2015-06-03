@@ -1,6 +1,6 @@
 #Associação Python Brasil
-- O que é
-- Porque surgil
+- O que é?
+- Por que foi criada?
 
 ##Fundadores
 
@@ -11,7 +11,10 @@
 
 ##Diretorias passadas
 
-##Conferência Python Brasil
+##Conferência Python Brasil(https://github.com/pythonbrasil/pythonbrasil_documentacao)
+
+Manual do Big Kahuna(https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html)
+
 - Suas edições
 - Quem organizou
 - Onde foram realizadas
@@ -34,7 +37,5 @@
 - 2013 - Henrique Bastos e Fernando Massanori
 - 2014 - Osvaldo Santana Neto
 
-## Outras fontes historicas:
-https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html - codigo fonte: https://github.com/pythonbrasil/pythonbrasil_documentacao
 
 

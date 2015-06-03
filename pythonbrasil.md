@@ -11,9 +11,9 @@
 
 ##Diretorias passadas
 
-##Conferência Python Brasil(https://github.com/pythonbrasil/pythonbrasil_documentacao)
+##Conferência [Python Brasil](https://github.com/pythonbrasil/pythonbrasil_documentacao)
 
-Manual do Big Kahuna(https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html)
+Manual do [Big Kahuna](https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html)
 
 - Suas edições
 - Quem organizou

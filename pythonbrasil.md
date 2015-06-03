@@ -1,10 +1,11 @@
 #Associação Python Brasil
 
 ##Fundadores
--Luciano Ramalho
--Rodrigo Senra
--Jean Ferri
--Érico Andrei
+
+- Luciano Ramalho
+- Rodrigo Senra
+- Jean Ferri
+- Érico Andrei
 
 ##Diretorias passadas
 

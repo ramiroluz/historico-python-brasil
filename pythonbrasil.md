@@ -1,22 +1,54 @@
-#Associação Python Brasil
+# Associação Python Brasil
+
 - O que é?
 
 A PythonBrasil é o evento anual da comunidade Python brasileira. Organizado pela Associação Python Brasil desde sua terceira edição, ele já foi conhecido como PyConDays (apenas na primeira edição, em Campinas, 2005), e como PyConBrasil, nome utilizado até a quarta edição.
 
 - Por que foi criada?
 
+<<<<<<< HEAD
 Foi criada com o intuito de lidar com a burocracia do dinheiro de forma mais fácil e descentralizada.
 
 ##Fundadores
+=======
+>>>>>>> aef45cebdc2027d98d2d5b2462ca4f578f27aa4d
 
-- Luciano Ramalho
-- Rodrigo Senra
-- Jean Ferri
+## Fundadores
+
+![Fundação da APyB](http://i.imgur.com/gdHbEsg.jpg)
+
+De pé (esquerda para direita):
+
+- Fabio Rizzo
+- Pedro Werneck
+- Johan Dahlin
+- ???
 - Érico Andrei
+- ???
+- Daniel Vainsencher
+- Leonardo Rochael
+- Ricardo Bánffy
+- Luciano Ramalho
+- Rodrigo Bernardo Pimentel
+- Rodrigo Senra
+- Luciano Pacheco
+- ???
+- Giuseppe Romagnoli
 
-##Diretorias passadas
+Sentados (esquerda para direita):
+- Rudá Porto Filgueiras
+- ???
+- Fabiano Weimar dos Santos
+- Sérgio Oliveira
+- Osvaldo Santana Neto
+- Marco André
+- Dornéles Treméa
+- Jean Ferri
 
-##Conferência [Python Brasil](https://github.com/pythonbrasil/pythonbrasil_documentacao)
+
+## Diretorias passadas
+
+## Conferência [Python Brasil](https://github.com/pythonbrasil/pythonbrasil_documentacao)
 
 Manual do [Big Kahuna](https://manual-do-big-kahuna.readthedocs.org/en/latest/index.html)
 
@@ -43,6 +75,88 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2013 - Brasília - Tania Andreia
 - 2014 - Porto de Galinhas - Renato Oliveira
 - 2015 - São José dos Campos - Renzo Nuccitelli
+
+### Recursos e Conteudos gerados nas conferência
+
+- 2006:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2007:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2008:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2009:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2010:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2011:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2012:
+    - Hotsite: https://github.com/pythonbrasil/pythonbrasil8
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros: https://github.com/pythonbrasil/organizacao-pybr8
+
+- 2013:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2014:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
+
+- 2015:
+    - Hotsite:
+    - Palestras e treinamentos:
+     - Slides:
+     - Videos:
+    - Fotos:
+    - Outros:
 
 ##Prêmio Dorneles Trémea
 

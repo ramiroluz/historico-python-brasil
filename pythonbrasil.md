@@ -6,12 +6,10 @@ A PythonBrasil é o evento anual da comunidade Python brasileira. Organizado pel
 
 - Por que foi criada?
 
-<<<<<<< HEAD
 Foi criada com o intuito de lidar com a burocracia do dinheiro de forma mais fácil e descentralizada.
 
 ##Fundadores
 =======
->>>>>>> aef45cebdc2027d98d2d5b2462ca4f578f27aa4d
 
 ## Fundadores
 
@@ -75,88 +73,6 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2013 - Brasília - Tania Andreia
 - 2014 - Porto de Galinhas - Renato Oliveira
 - 2015 - São José dos Campos - Renzo Nuccitelli
-
-### Recursos e Conteudos gerados nas conferência
-
-- 2006:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2007:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2008:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2009:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2010:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2011:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2012:
-    - Hotsite: https://github.com/pythonbrasil/pythonbrasil8
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros: https://github.com/pythonbrasil/organizacao-pybr8
-
-- 2013:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2014:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
-
-- 2015:
-    - Hotsite:
-    - Palestras e treinamentos:
-     - Slides:
-     - Videos:
-    - Fotos:
-    - Outros:
 
 ##Prêmio Dorneles Trémea
 

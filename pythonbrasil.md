@@ -1,17 +1,15 @@
 # Associação Python Brasil
 
-- O que é?
+##O que é?
 
 A PythonBrasil é o evento anual da comunidade Python brasileira. Organizado pela Associação Python Brasil desde sua terceira edição, ele já foi conhecido como PyConDays (apenas na primeira edição, em Campinas, 2005), e como PyConBrasil, nome utilizado até a quarta edição.
 
-- Por que foi criada?
+##Por que foi criada?
 
 Foi criada com o intuito de lidar com a burocracia do dinheiro de forma mais fácil e descentralizada.
 
 ##Fundadores
 =======
-
-## Fundadores
 
 ![Fundação da APyB](http://i.imgur.com/gdHbEsg.jpg)
 

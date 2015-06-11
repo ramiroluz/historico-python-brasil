@@ -18,9 +18,9 @@ De pé (esquerda para direita):
 - Fabio Rizzo
 - Pedro Werneck
 - Johan Dahlin
-- ???
+- Julio Monteiro
 - Érico Andrei
-- ???
+- Jacson Tiola
 - Daniel Vainsencher
 - Leonardo Rochael
 - Ricardo Bánffy
@@ -28,7 +28,7 @@ De pé (esquerda para direita):
 - Rodrigo Bernardo Pimentel
 - Rodrigo Senra
 - Luciano Pacheco
-- ???
+- Rodrigo Castardo
 - Giuseppe Romagnoli
 
 Sentados (esquerda para direita):

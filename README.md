@@ -80,6 +80,7 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2012 - Marcel Caraciolo e Érico Andrei
 - 2013 - Henrique Bastos e Fernando Massanori
 - 2014 - Osvaldo Santana Neto
+- 2015 - Tania Andrea
 
 
 

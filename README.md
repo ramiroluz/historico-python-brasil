@@ -33,7 +33,7 @@ De pé (esquerda para direita):
 
 Sentados (esquerda para direita):
 - Rudá Porto Filgueiras
-- ???
+- Júlio de Lima do Rêgo Monteiro
 - Fabiano Weimar dos Santos
 - Sérgio Oliveira
 - Osvaldo Santana Neto
@@ -71,6 +71,9 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2013 - Brasília - Tania Andreia
 - 2014 - Porto de Galinhas - Renato Oliveira
 - 2015 - São José dos Campos - Renzo Nuccitelli
+- 2016 - Florianópolis - Mário Sérgio Oliveira de Queiroz
+- 2017 - Belo Horizonte - Igor Santos
+- 2018 - Natal - Humberto Diógenes
 
 ##Prêmio Dorneles Trémea
 
@@ -81,6 +84,4 @@ Todavia, em todas as edições, o evento é fruto do trabalho de diversas pessoa
 - 2013 - Henrique Bastos e Fernando Massanori
 - 2014 - Osvaldo Santana Neto
 - 2015 - Tania Andrea
-
-
-
+- 2016 - Paula Granjeiro

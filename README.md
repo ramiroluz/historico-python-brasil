@@ -33,7 +33,7 @@ De pé (esquerda para direita):
 
 Sentados (esquerda para direita):
 - Rudá Porto Filgueiras
-- Júlio de Lima do Rêgo Monteiro
+- ????
 - Fabiano Weimar dos Santos
 - Sérgio Oliveira
 - Osvaldo Santana Neto
